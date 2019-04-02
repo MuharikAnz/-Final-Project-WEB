@@ -1,0 +1,42 @@
+#box1 {
+	width:65%;
+	/*height:470px;*/
+	background: palegoldenrod;
+	margin-left: 250px;
+	margin-right: 200px;
+	margin-top: 0px;
+	color: darkgreen;
+	padding-bottom: 200px;
+}
+
+#box1 h2 {
+	margin-top: 60px;
+	font: bold 40px;
+}
+
+form {
+	background-color: palegoldenrod;
+	color: olive;
+	font: bold 18px serif;
+	padding-left: 0px;
+	padding-bottom: 200px;
+	/*margin-left: 150px;*/
+}
+
+/*span{
+	font: bold 15px serif;
+	margin-top: 0px;
+	padding-top: 0px;
+	border-top: 0px;
+	color: #444;
+}
+
+button {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 20px;
+	font: 18px sans-serif;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-left: 140px;	
+}*/

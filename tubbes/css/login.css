@@ -1,0 +1,39 @@
+ /*#box1 {
+	width:650px;
+	height:400px;
+	background: palegoldenrod;
+	border:solid 30px #444;
+	margin-left: 330px;
+	margin-top: 90px;
+	color: darkgreen;
+}*/
+
+#box1 {
+	width:65%;
+	/*height:470px;*/
+	background: palegoldenrod;
+	margin-left: 250px;
+	margin-right: 200px;
+	margin-top: 0px;
+	color: darkgreen;
+	padding-bottom: 200px;
+}
+
+/*#box1 h2 {
+	margin-left: 90px;
+	margin-right: 200px;
+	margin-top: 10px;
+	padding-bottom: 30px;
+	font: bold 40px;
+	color: darkgreen;
+
+}*/
+
+form {
+	background-color: palegoldenrod;
+	color: olive;
+	font: bold 18px serif;
+	padding-left: 0px;
+	padding-bottom: 200px;
+	/*margin-left: 150px;*/
+}

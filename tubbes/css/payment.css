@@ -1,0 +1,141 @@
+.box1 {
+	width:800px;
+	height:1250px;
+	background: palegoldenrod;
+	border:solid 30px #444;
+	margin-left: 250px;
+	margin-right: 200px;
+	margin-top: 70px;
+	color: darkgreen;
+	padding-left: 20px;
+}
+
+#box2 {
+	width:605px;
+	height:500px;
+	background: palegoldenrod;
+	border:solid 10px #666600;
+	margin-left: 50px;
+	margin-right: 200px;
+	margin-top: 70px;ss
+	color: darkgreen;
+	padding-left: 20px;
+}
+
+
+.title {
+  height: 60px;
+  border-bottom: 1px solid darkgreen;
+  padding: 20px 30px;
+  color: darkgreen;
+  font-size: 18px;
+}
+
+#box2 img {
+	width: 200px;
+	height: 135px;
+	margin-top: 30px;
+}
+
+#box2 .description span{
+	margin-top: 40px;
+	display: block;
+  	font-size: 14px;
+  	color: darkgreen;
+  	font-weight: 400;
+}
+
+#box2 .description input{
+	margin-top: 10px;
+	margin-left: 10px;
+	opacity: 0.5;
+	background-color: palegoldenrod;
+}
+
+#box2 .description img {
+	width: 15px;
+	height: 15px;
+	margin-left: 10px;
+	margin-top: 13px;
+}
+
+#box2 .quantity button{
+	width: 30px;
+  	height: 30px;
+  	background-color: #E1E8EE;
+  	border-radius: 6px;
+  	border: none;
+  	cursor: pointer;
+  	margin-top: 10px;
+  	margin-left: 10px;
+}
+
+.quantity input {
+  -webkit-appearance: none;
+  border: none;
+  text-align: center;
+  width: 32px;
+  font-size: 16px;
+  color: #43484D;
+  font-weight: 300;
+  margin-left: 5px;
+  margin-top: 10px;
+  background-color: palegoldenrod;
+}
+
+
+.total-price {
+  width: 83px;
+  padding-top: 27px;
+  text-align: center;
+  font-size: 16px;
+  color: #43484D;
+  font-weight: 300;
+  margin-left: 450px;
+  color: darkgreen;
+  margin-top: 0px;
+}
+
+#box2 .harga p {
+	margin-top: 200px;
+	margin-left: 300px;
+	font : 18px sans-serif;
+}
+
+#box3 {
+	width:605px;
+	height:350px;
+	background: palegoldenrod;
+	border:solid 10px #666600;
+	margin-left: 50px;
+	margin-right: 200px;
+	margin-top: 90px;
+	color: darkgreen;
+	padding-left: 20px;
+}
+
+#box3 p {
+	font: 18px sans-serif;
+}
+
+#box3 h4 {
+	padding-top: 30px; 
+	font: 25px sans-serif;
+	border-bottom: 1px solid darkgreen;
+}
+
+#box3 textarea {
+	font-size: 14px;
+	opacity: 0.5;
+	margin-left: 55px;
+}
+
+.bayar button {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 20px;
+	font: 18px sans-serif;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-left: 210px;	
+}

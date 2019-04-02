@@ -1,0 +1,84 @@
+.makanan-list {
+    position: relative;
+/*    display: inline-block;
+    flex-wrap: wrap;
+    
+    justify-content: space-between;*/
+}
+
+.makanan-item {
+    display: inline-flex;
+    box-sizing: border-box;
+
+    float: left;
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height: 100%;
+    width: calc(100% / 3 - 40px);
+}
+
+h4{
+    font-size: auto;
+    color: black;
+
+}
+
+.harga {
+    font-size: auto;
+    color: black;
+    line-height: 0.5;
+}
+
+.deskripsi {
+    font-size: auto;
+    color: black;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+
+/*.container .btn-holder {
+  justify-content: flex-end;
+  display: flex;
+}*/
+
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+div.btn-holder{
+    float: bottom;
+    margin: 30px 15px;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
+.container {
+    padding: 0 15px;
+}
+
+.grid-container {
+ /* display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding: 30px 120px;*/
+}
+.grid-container>div {
+  /*text-align: center;
+  padding:20px;
+  font-size: 30px;
+  margin-top: 10px;*/
+}

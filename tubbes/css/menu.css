@@ -1,0 +1,27 @@
+h2.judul {
+  margin-top: 30px;
+  text-align: center;
+  color: #FFB266;
+}
+
+.container {
+	width: 80%;
+}
+
+.kotak_makanan {
+	border:1px solid #333; 
+	background-color:#f1f1f1; 
+	border-radius:5px; 
+	padding:16px; 
+	height:350px;
+	margin-bottom: 30px
+}
+
+.col-md-4 {
+	margin-top:12px; 
+	padding: 30px 20px;
+}
+
+p {
+	color: black;
+}

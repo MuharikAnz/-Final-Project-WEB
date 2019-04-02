@@ -1,0 +1,60 @@
+* {box-sizing: border-box;}
+
+h2.judul{
+  margin-top: 30px;
+  text-align: center;
+  color: #FFB266;
+}
+
+.container-kategori {
+  position: relative;
+  width: 100%;
+}
+
+img.image {
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #faebd7;
+}
+
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(139, 137, 137);
+  background: rgba(139, 137, 137, 0.5); /* Black see-through */
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-style: bold;
+  font-family: Helvatica;
+  font-size: 20px;
+  padding: 20px 0px;
+  text-align: center;
+  border-radius: 0 0 10px 10px;
+}
+
+.container-kategori:hover .overlay {
+  opacity: 1;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding: 0px 120px;
+}
+.grid-container>div {
+  text-align: center;
+  padding:20px;
+  font-size: 30px;
+  margin-top: 10px;
+}

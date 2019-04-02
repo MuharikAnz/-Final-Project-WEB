@@ -1,0 +1,15 @@
+#box1 {
+	width:500px;
+	height:230px;
+	background: palegoldenrod;
+	border:solid 30px #444;
+	margin-left: 400px;
+	margin-right: 200px;
+	margin-top: 90px;
+	color: darkgreen;
+	text-align: center;
+}
+
+p {
+	margin-top: 60px;
+}

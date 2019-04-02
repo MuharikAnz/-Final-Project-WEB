@@ -1,0 +1,29 @@
+#box1 {
+	width:65%;
+	/*height:470px;*/
+	background: palegoldenrod;
+	margin-left: 250px;
+	margin-right: 200px;
+	margin-top: 0px;
+	color: darkgreen;
+	padding-bottom: 200px;
+}
+
+#box1 h2 {
+	margin-top: 60px;
+	font: bold 40px;
+}
+
+#gojek {
+	display: inline-block;
+	margin-top: 45px;
+	padding-bottom: 50px;
+	margin-left: 2px;
+}
+
+#grab {
+	display: inline-block;
+	margin-top: 45px;
+	padding-bottom: 40px;
+	margin-left: 5px;
+}
